@@ -101,7 +101,7 @@ const perguntas = [
   //Ou seja, esta declaração serve para criar, sempre que chamarmos ela um conjunto de dados
   const corretas = new Set();
   
-  //Define o valor desta com o tamanho de dados da var perguntas
+  //Define o valor desta váriavel com o tamanho de dados da var perguntas
   const totalAsks = perguntas.length;
   
   //Seleciona no html o id #rights 
